@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7a8f237-d8ae-4049-98e2-ff5eeb64c903" name="Default Changelist" comment="triggers">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/shehan.5Vcmyg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/shehan.5Vcmyg/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/shehan.5Vcmyg/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b7a8f237-d8ae-4049-98e2-ff5eeb64c903" name="Default Changelist" comment="trigerrs in micrsot sql">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/employee_managment_system.oX530w/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/employee_managment_system.oX530w/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +42,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="insert Transactions" />
     <MESSAGE value="triggers" />
-    <option name="LAST_COMMIT_MESSAGE" value="triggers" />
+    <MESSAGE value="trigerrs in micrsot sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="trigerrs in micrsot sql" />
   </component>
 </project>
