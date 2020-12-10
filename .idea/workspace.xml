@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7a8f237-d8ae-4049-98e2-ff5eeb64c903" name="Default Changelist" comment="insert Transactions">
+    <list default="true" id="b7a8f237-d8ae-4049-98e2-ff5eeb64c903" name="Default Changelist" comment="triggers">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/shehan.5Vcmyg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/shehan.5Vcmyg/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bb5bdbbf-918c-42c5-acf8-42190f3eac72/storage_v2/_src_/database/shehan.5Vcmyg/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/employee_managment_system.oX530w/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/employee_managment_system.oX530w/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +34,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Test case template_V1(7).xlsx" />
-    <property name="settings.editor.selected.configurable" value="database.main2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="insert Transactions" />
-    <option name="LAST_COMMIT_MESSAGE" value="insert Transactions" />
+    <MESSAGE value="triggers" />
+    <option name="LAST_COMMIT_MESSAGE" value="triggers" />
   </component>
 </project>
