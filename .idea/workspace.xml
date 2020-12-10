@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7a8f237-d8ae-4049-98e2-ff5eeb64c903" name="Default Changelist" comment="">
+    <list default="true" id="b7a8f237-d8ae-4049-98e2-ff5eeb64c903" name="Default Changelist" comment="insert Transactions">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/employee_managment_system.oX530w/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/employee_managment_system.oX530w/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc457863-5b87-465e-8c08-84a97ab445e7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,10 +23,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql&#10;sqlserver" />
+    <property name="RunConfigurationTargetLRU" value="bc457863-5b87-465e-8c08-84a97ab445e7/database/&quot;employee_managment_system&quot;/schema/&quot;dbo&quot;" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Test case template_V1(7).xlsx" />
     <property name="settings.editor.selected.configurable" value="database.main2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="insert Transactions" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert Transactions" />
+  </component>
 </project>
